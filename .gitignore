@@ -1,0 +1,5 @@
+# Ignore all files starting with "Noten"
+Noten*
+
+# Ignore all folders starting with "00 -"
+00 -*/

@@ -10,7 +10,7 @@
 - [[04a - 10 Grunschutzschichten]]
 - [[05 - Bedrohungslagen und Angriffsvektoren.excalidraw]]
 - [[05a - Aufgaben]]
-- [[06 - Social Engeneering und Identitätsdiebstahl.excalidraw]]
+- [[06 - Social Engineering und Identitätsdiebstahl.excalidraw]]
 - [[06a - Aufgaben]]
 - **Anhänge**
 	- [[Pasted Image 20250902135242_944.png]]

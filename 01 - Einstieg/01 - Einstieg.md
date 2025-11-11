@@ -8,6 +8,10 @@
 - [[03 - Gesetze und Richtlinien zur Informationssicherheit.excalidraw]]
 - [[04 - IT-Grundschutz (BSI).excalidraw]]
 - [[04a - 10 Grunschutzschichten]]
+- [[05 - Bedrohungslagen und Angriffsvektoren.excalidraw]]
+- [[05a - Aufgaben]]
+- [[06 - Social Engeneering und Identitätsdiebstahl.excalidraw]]
+- [[06a - Aufgaben]]
 - **Anhänge**
 	- [[Pasted Image 20250902135242_944.png]]
 	- [[Pasted Image 20250902224550_213.png]]
@@ -18,5 +22,7 @@
 	- [[Pasted Image 20251005154906_878.png]]
 	- [[Pasted Image 20251005155032_731.png]]
 	- [[Pasted Image 20251005170909_045.png]]
+- [[Noten 05a - Musterlösungen]]
+- [[Noten 06a - Musterlösungen]]
 
 %% End Waypoint %%

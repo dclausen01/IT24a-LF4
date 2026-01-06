@@ -5,7 +5,7 @@ Beim Datenschutz geht es um den Schutz von sogenannten personenbezogenen Daten. 
 *nach: Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen: Was sind personenbezogene Daten, www.ldi.nrw.de, Stand: März 2019*
 
 **Aufgabe**
-Erläutern Sie, was personenbezogene Daten sind und warum sie geschützt werden sollten!
+Fasst zusammen, was personenbezogene Daten sind und erläutert, warum sie geschützt werden sollten!
 
 ## DAS RECHT AUF DATENSCHUTZ: WO IST WAS GEREGELT?
 Jeder Mensch soll selbst entscheiden können, was mit seinen persönlichen Daten geschieht. Personenbezogene Daten dürfen nur erhoben, gespeichert, verändert, verarbeitet, übermittelt oder sonstig genutzt werden, wenn dies durch ein Gesetz erlaubt ist oder wenn die betroffene Person eingewilligt hat. Ämter, Sicherheitsbehörden und Unternehmen hingegen müssen beziehungsweise wollen persönliche Daten verarbeiten, um ihre Aufgaben zu erfüllen oder ihre Ziele zu erreichen. Das Datenschutzrecht sorgt für einen Ausgleich zwischen diesen unterschiedlichen Interessen. Geregelt ist das in der europäischen Datenschutz-Grundverordnung (DSGVO), die seit Mai 2018 zur Anwendung kommt. Demnach muss jede/r ausführlich darüber informiert werden, was mit den persönlichen Daten passiert. Wenn gespeicherte Daten unrichtig sind, kann zum Beispiel eine Berichtigung verlangt werden. Neu ist das „Recht auf Vergessenwerden“: Wenn Informationen die Persönlichkeitsrechte verletzen (weil sie zum Beispiel unangemessen und veraltet sind), kann man von Suchmaschinen verlangen, dass diese Links nicht mehr bei den Suchergebnissen angezeigt werden. Grundsätzlich gilt: Einwilligungen zur Datenverarbeitung können widerrufen werden. 
@@ -13,8 +13,8 @@ Jeder Mensch soll selbst entscheiden können, was mit seinen persönlichen Daten
 *nach: Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit: Datenschutz – meine Rechte, Januar 2019*
 
 **Aufgabe**
-Gehen Sie der Frage nach, inwiefern die DSGVO auch - über den betrieblichen Kontext hinaus - für junge Menschen relevant ist. Sehen Sie sich dazu diesen Filme an, der mit dem Datenschutz-Medienpreis 2017 ausgezeichnet wurde: [Social Engineering](https://www.youtube.com/watch?v=VjPv9AIqd8Y). 
-Überlegen Sie, welches Problem hier geschildert wird und welche Argumente für Datenschutzanliegen sich daraus ableiten lassen. Tauschen Sie sich anschließend zu zweit darüber aus und halten Sie Ihre Ergebnisse gemeinsam fest.
+Geht der Frage nach, inwiefern die DSGVO auch - über den betrieblichen Kontext hinaus - für junge Menschen relevant ist. Seht Euch dazu diesen Filme an, der mit dem Datenschutz-Medienpreis 2017 ausgezeichnet wurde: [Social Engineering](https://www.youtube.com/watch?v=VjPv9AIqd8Y). 
+Überlegt, welches Problem hier geschildert wird und welche Argumente für Datenschutzanliegen sich daraus ableiten lassen. Tauscht Euch anschließend zu zweit darüber aus und haltet Eure Ergebnisse gemeinsam fest.
 
 ## DATENSCHUTZ AM ARBEITSPLATZ
 In Unternehmen werden täglich unzählige personenbezogene Daten verarbeitet: bei der Erfassung der Arbeitszeit, in E-Mails, Telefonaten oder Gehaltsabrechnungen. Grundsätzlich dürfen daher auch in Unternehmen nur Daten erhoben und verarbeitet werden, die für den Job erforderlich sind. Das heißt zum Beispiel, dass eine heimliche, unbegründete Überwachung der Belegschaft verboten ist. Insbesondere in Unternehmen, in denen große Mengen sogenannter „sensibler Daten“ anfallen, zum Beispiel im Gesundheitswesen oder in Banken, ist Datenschutz besonders wichtig. Das gilt auch für Steuerkanzleien. Steuerberater/innen und ihre Mitarbeitenden haben Einsicht in viele personenbezogene Daten, beispielsweise in Gehälter, Vermögen, Steuerdaten und familiäre Verhältnisse. Auch Steuerkanzleien müssen sich an die DSGVO halten. Allerdings gibt es hier Regelungen, die das Berufsrecht berücksichtigen. Ein Kontrollrecht von staatlichen Aufsichtsbehörden in Kanzleiräumen kann eingeschränkt werden, wenn dadurch Informationen, die der berufsrechtlichen Verschwiegenheit unterliegen, bekannt werden könnten. Steuerberater/innen haben umfassende Verschwiegenheitspflichten, bei deren Verletzung sie sich strafbar machen würden. 
@@ -22,9 +22,9 @@ In Unternehmen werden täglich unzählige personenbezogene Daten verarbeitet: be
 *nach: Stiftung Datenschutz: Datenschutz im Betrieb. Eine Handreichung für Beschäftigte, Mai 2018; Maximilian Greger: Sensible Daten schützen, DATEV Magazin 03/2019, Seite 22 folgende*
 
 **Aufgabe**
-Teilen Sie sich in Lerngruppen auf und wählen Sie einen Arbeitsbereich aus dem IT-Bereich aus (muss nicht der Bereich sein, in dem Sie gerade eingesetzt sind). Erstellen Sie unter Berücksichtigung des Textes oben eine Übersicht, bei welchen berufsbezogenen Tätigkeiten Datenschutz wichtig ist. 
-Weitere Infos finden Sie zum Beispiel in der Broschüre „Datenschutz im Betrieb – Eine Handreichung für Beschäftigte“ (Seite 25 und 26) der Stiftung Datenschutz, erhältlich unter [Stiftung Datenschutz](https://stiftungdatenschutz.org) > Themen > Informationsmaterialien. 
-Präsentieren Sie Ihre Ergebnisse im Plenum!
+Teilt Euch in Lerngruppen auf und wählt einen Arbeitsbereich aus dem IT-Bereich aus (muss nicht der Bereich sein, in dem ihr gerade eingesetzt seid). Erstellt unter Berücksichtigung des Textes oben eine Übersicht, bei welchen berufsbezogenen Tätigkeiten Datenschutz wichtig ist. 
+Weitere Infos findet ihr zum Beispiel in der Broschüre „Datenschutz im Betrieb – Eine Handreichung für Beschäftigte“ (Seite 25 und 26) der Stiftung Datenschutz, erhältlich unter [Stiftung Datenschutz](https://stiftungdatenschutz.org) > Themen > Informationsmaterialien. 
+Präsentiert Eure Ergebnisse im Plenum!
 
 ## Datenschutztipps
 Datenschutz ist nicht nur ein Thema für Behörden und Unternehmen. Im Gegenteil: Jeder sollte sich auch selbst darum kümmern, dass seine Daten sicher sind. 
@@ -42,4 +42,4 @@ Datenschutz ist nicht nur ein Thema für Behörden und Unternehmen. Im Gegenteil
 
 
 **Aufgabe**
-Diskutieren Sie anhand der Vorschläge oben, ob Datenschutz im Alltag anwendbar ist. Begründen Sie Ihre Meinung.
+Diskutiert anhand der Vorschläge oben, ob Datenschutz im Alltag überhaupt anwendbar ist. Begründet Eure Meinung.

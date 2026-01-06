@@ -7,5 +7,5 @@ Da die Verordnung sehr umfassend ist, gibt es hilfreiche Übersichtsseiten, die 
 **Aufgabe**
 
 1. Wählt zu zweit einen Begriff aus, lest den zugeordneten Text und schreibt eine möglichst verständliche Zusammenfassung.
-2. Findet ggf. ein passendes Beispiel, dass die Konsequenzen der Regelungen veranschaulicht.
+2. Findet möglichst ein passendes Beispiel, dass die Konsequenzen der Regelungen veranschaulicht.
 

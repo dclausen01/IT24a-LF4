@@ -14,7 +14,7 @@ Jeder Mensch soll selbst entscheiden können, was mit seinen persönlichen Daten
 
 **Aufgabe**
 Geht der Frage nach, inwiefern die DSGVO auch - über den betrieblichen Kontext hinaus - für junge Menschen relevant ist. Seht Euch dazu diesen Filme an, der mit dem Datenschutz-Medienpreis 2017 ausgezeichnet wurde: [Social Engineering](https://www.youtube.com/watch?v=VjPv9AIqd8Y). 
-Überlegt, welches Problem hier geschildert wird und welche Argumente für Datenschutzanliegen sich daraus ableiten lassen. Tauscht Euch anschließend zu zweit darüber aus und haltet Eure Ergebnisse gemeinsam fest.
+Überlegt, welches Problem hier geschildert wird und welche Argumente für Datenschutzanliegen sich daraus ableiten lassen - fallen Euch auch andere Gefahren ein?
 
 ## DATENSCHUTZ AM ARBEITSPLATZ
 In Unternehmen werden täglich unzählige personenbezogene Daten verarbeitet: bei der Erfassung der Arbeitszeit, in E-Mails, Telefonaten oder Gehaltsabrechnungen. Grundsätzlich dürfen daher auch in Unternehmen nur Daten erhoben und verarbeitet werden, die für den Job erforderlich sind. Das heißt zum Beispiel, dass eine heimliche, unbegründete Überwachung der Belegschaft verboten ist. Insbesondere in Unternehmen, in denen große Mengen sogenannter „sensibler Daten“ anfallen, zum Beispiel im Gesundheitswesen oder in Banken, ist Datenschutz besonders wichtig. Das gilt auch für Steuerkanzleien. Steuerberater/innen und ihre Mitarbeitenden haben Einsicht in viele personenbezogene Daten, beispielsweise in Gehälter, Vermögen, Steuerdaten und familiäre Verhältnisse. Auch Steuerkanzleien müssen sich an die DSGVO halten. Allerdings gibt es hier Regelungen, die das Berufsrecht berücksichtigen. Ein Kontrollrecht von staatlichen Aufsichtsbehörden in Kanzleiräumen kann eingeschränkt werden, wenn dadurch Informationen, die der berufsrechtlichen Verschwiegenheit unterliegen, bekannt werden könnten. Steuerberater/innen haben umfassende Verschwiegenheitspflichten, bei deren Verletzung sie sich strafbar machen würden. 
@@ -42,4 +42,4 @@ Datenschutz ist nicht nur ein Thema für Behörden und Unternehmen. Im Gegenteil
 
 
 **Aufgabe**
-Diskutiert anhand der Vorschläge oben, ob Datenschutz im Alltag überhaupt anwendbar ist. Begründet Eure Meinung.
+Diskutiert anhand der Vorschläge oben, ob Datenschutz im Alltag überhaupt anwendbar ist. Begründet Eure Meinung differenziert. 

@@ -12,6 +12,6 @@
 	- [[image.png]]
 - **[[Images]]**
 - [[Auswertung Klausurbewertung]]
-- [[Noten Zeugnis.univer 1]]
+- [[Noten Zeugnis.univer]]
 
 %% End Waypoint %%

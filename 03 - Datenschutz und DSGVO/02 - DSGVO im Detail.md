@@ -1,11 +1,11 @@
 # Die DSGVO heruntergebrochen auf wichtige Begriffe
-Die DSGVO (Datenschutzgrundverordnung) ist eine im europaischen Recht verankerte Verordnung zum Schutz personenbezogener Daten.
+Die DSGVO (Datenschutzgrundverordnung) ist eine im europäischen Recht verankerte Verordnung zum Schutz personenbezogener Daten.
 Da die Verordnung sehr umfassend ist, gibt es hilfreiche Übersichtsseiten, die zentrale Informationen zu wesentliche Begriffen bereitstellt, z. B.: [dsgvo-gesetz.de/](https://dsgvo-gesetz.de/)
 
-![[91 - Material Informatik/IT-LF4/lf4-Wichtige-Themen-DSGVO.png]]
+![[lf4-Wichtige-Themen-DSGVO.png]]
 
 **Aufgabe**
 
 1. Wählt zu zweit einen Begriff aus, lest den zugeordneten Text und schreibt eine möglichst verständliche Zusammenfassung.
-2. Findet möglichst ein passendes Beispiel, dass die Konsequenzen der Regelungen veranschaulicht.
+2. Findet ggf. ein passendes Beispiel, dass die Konsequenzen der Regelungen veranschaulicht.
 

@@ -3,7 +3,7 @@
 	- [[Besprechungsräume.pdf]]
 	- [[Cloud Schutz_Norje_Elias.excalidraw]]
 	- [[Francesco, Leonard und Julian Drucker und Kopierer.pptx]]
-	- [[image.png]]
+	- [[09 - IT24a-LF4-ClauD/02 - IT-Sicherheit/Anhänge/image.png]]
 	- [[image2.png]]
 	- [[Pasted Image 20251005153149_090.png]]
 	- [[Pasted Image 20251005153619_009.png]]

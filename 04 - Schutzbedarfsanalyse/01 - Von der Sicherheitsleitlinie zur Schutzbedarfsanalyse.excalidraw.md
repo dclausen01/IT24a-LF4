@@ -24,7 +24,7 @@ zu durchlaufen:
 4) Schutzbedarfsfeststellung ^lAOjA3gU
 
 ## Embedded Files
-3a536380faa61bca14f1e3bd14359df04417f3af: [[09 - IT24a-LF4-ClauD/04 - Schutzbedarfsanalyse/Anhänge/Pasted Image 20260120215342_372.png]]
+3a536380faa61bca14f1e3bd14359df04417f3af: [[04 - Schutzbedarfsanalyse/Anhänge/Pasted Image 20260120215342_372.png]]
 
 %%
 ## Drawing

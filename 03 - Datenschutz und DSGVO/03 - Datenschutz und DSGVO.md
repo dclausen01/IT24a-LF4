@@ -2,9 +2,7 @@
 
 -**Anhänge**
 	- [[lf4-Wichtige-Themen-DSGVO.png]]
-- [[01 - Einstieg und persönliche Daten]]
-- [[02 - DSGVO im Detail]]
-- [[03 - Relevante Datenschutzthemen für das LF4]]--
+- levante Datenschutzthemen für das LF4]]--
 %% Begin Waypoint %%
 - **Anhänge**
 	- [[lf4-Wichtige-Themen-DSGVO.png]]

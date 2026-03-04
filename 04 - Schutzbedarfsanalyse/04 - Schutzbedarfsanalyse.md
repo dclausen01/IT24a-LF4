@@ -8,5 +8,6 @@
 - [[01 - Von der Sicherheitsleitlinie zur Schutzbedarfsanalyse.excalidraw]]
 - [[02 - Erstellung einer eigenen Schutzbedarfsanalyse.excalidraw]]
 - [[02a - Vorlage Schutzbedarfsfeststellung]]
+- [[02b - Bewertungskriterien]]
 
 %% End Waypoint %%

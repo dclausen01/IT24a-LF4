@@ -38,7 +38,7 @@ qF9W1Ane: https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Stand
 lHz2iUoo: [[04a - 10 Grunschutzschichten]]
 
 ## Embedded Files
-d7d3dbc93a65366a624801ac7d97c7e27fc54cbe: [[09 - IT24a-LF4-ClauD/01 - Einstieg/Anhänge/Pasted Image 20251005170909_045.png]]
+d7d3dbc93a65366a624801ac7d97c7e27fc54cbe: [[01 - Einstieg/Anhänge/Pasted Image 20251005170909_045.png]]
 
 %%
 ## Drawing

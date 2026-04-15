@@ -106,9 +106,9 @@ Um Verbrauchern vor Fälschungen zu schützen.
 Ziel ^4D1EfwN7
 
 ## Embedded Files
-557c452d6f7aa11fec65f131394e89a7f2414a02: [[09 - IT24a-LF4-ClauD/01 - Einstieg/Anhänge/Pasted Image 20251005154906_878.png]]
+557c452d6f7aa11fec65f131394e89a7f2414a02: [[01 - Einstieg/Anhänge/Pasted Image 20251005154906_878.png]]
 
-247d548c020458e7af385fb438eb2f2240300505: [[09 - IT24a-LF4-ClauD/01 - Einstieg/Anhänge/Pasted Image 20251005155032_731.png]]
+247d548c020458e7af385fb438eb2f2240300505: [[01 - Einstieg/Anhänge/Pasted Image 20251005155032_731.png]]
 
 %%
 ## Drawing

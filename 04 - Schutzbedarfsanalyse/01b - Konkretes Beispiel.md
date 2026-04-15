@@ -77,7 +77,7 @@ Eine mittelständische Apothekenkette mit 5 Filialen und einer Zentrale. 50 Mita
     PharmaSoft           PharmaSoft           Kassensystem
 ```
 
-**3.2 Netzplan (vereinfacht)**
+**3.2 Netzplan (vereinfacht) -- FEHLERHAFT**
 ```
                     ┌─────────────────┐
                     │   Internet      │
@@ -139,7 +139,7 @@ Eine mittelständische Apothekenkette mit 5 Filialen und einer Zentrale. 50 Mita
 | **Hoch** | Betriebsinterne Daten, personenbezogene Daten | Fehler verursacht finanziellen Schaden | Ausfall < 4h akzeptabel |
 | **Sehr hoch** | Hochsensible Daten, Gesundheitsdaten | Fehler gefährdet Leben/Existenz | Ausfall > 1h kritisch |
 
-**4.2 Bewertung der Assets**
+**4.2 Bewertung der Assets -- ZU KURZ**
 
 
 | Asset | Vertraulichkeit | Integrität | Verfügbarkeit | Gesamt |

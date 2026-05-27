@@ -1,17 +1,31 @@
 ---
 title: 01a - Potentielle Schwachstellenliste & Plan
 url: https://hackmd.io/EmlVmxCzRVad8KS33dwC-g
-lastSync: 2026-05-27T07:06:42.358Z
+lastSync: 2026-05-27T07:15:50.225Z
 ---
 # Unser Plan:
-## Testverfahren:
+## Testverfahren 1
 
 
-## Beratungsmaterial (Themen, Inhalte, Zielgruppen etc.)
+## Beratungsmaterial (Themen, Inhalte, Zielgruppen etc.) 1
 
 
-## Workshop-Plan
+## Testverfahren 2
 
+
+## Beratungsmaterial (Themen, Inhalte, Zielgruppen etc.) 2
+
+
+## Testverfahren 3
+
+
+## Beratungsmaterial (Themen, Inhalte, Zielgruppen etc.) 3
+
+
+## Testverfahren 4
+
+
+## Beratungsmaterial (Themen, Inhalte, Zielgruppen etc.) 4
 
 
 
